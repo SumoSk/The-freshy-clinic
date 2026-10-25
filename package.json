@@ -1,1 +1,10 @@
-{"name":"the-freshy-clinic-demo","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/core.test.js","check":"node --check assets/app.js && node --check assets/core.js"}}
+{
+  "name": "the-freshy-clinic-demo",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/core.test.js",
+    "check": "node --check assets/app.js && node --check assets/core.js"
+  }
+}
